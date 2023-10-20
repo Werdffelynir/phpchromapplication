@@ -1,0 +1,16 @@
+{
+    "name": "werd/phpapp",
+    "autoload": {
+        "psr-4": {
+            "Pa\\": "phpapplication/",
+            "Server\\": "server/"
+        }
+    },
+    "authors": [
+        {
+            "name": "werdffelynir",
+            "email": "werdffelynir@gmail.com"
+        }
+    ],
+    "require": {}
+}
